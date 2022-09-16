@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>kappa</name>
+=======
+	<name>WASM_5_Framework</name>
+>>>>>>> branch 'master' of https://github.com/3sandy/VtigerAutomationFramework.git
 	<comment></comment>
 	<projects>
 	</projects>

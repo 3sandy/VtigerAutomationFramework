@@ -1,6 +1,14 @@
 eclipse.preferences.version=1
 encoding//src/main/java=UTF-8
+<<<<<<< HEAD
 encoding//src/main/resources=UTF-8
 encoding//src/test/java=UTF-8
 encoding//src/test/resources=UTF-8
+=======
+encoding//src/test/java=UTF-8
+encoding//target/src/main/java=UTF-8
+encoding//target/src/main/resources=UTF-8
+encoding//target/src/test/java=UTF-8
+encoding//target/src/test/resources=UTF-8
+>>>>>>> branch 'master' of https://github.com/3sandy/VtigerAutomationFramework.git
 encoding/<project>=UTF-8

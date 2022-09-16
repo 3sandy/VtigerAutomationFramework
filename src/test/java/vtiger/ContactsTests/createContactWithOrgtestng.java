@@ -59,7 +59,11 @@ public class createContactWithOrgtestng extends BaseClass
 	    String OrgHeader = oip.getOrgHeader();
 	    System.out.println(OrgHeader);
 	   Assert.assertEquals(OrgHeader.contains(orgName), true);
+<<<<<<< HEAD
 	  
+=======
+	   Assert.fail();
+>>>>>>> branch 'master' of https://github.com/3sandy/VtigerAutomationFramework.git
 	  //Navigate to Contacts link
 	    
 	    hp.clickOnContactsLnk();
